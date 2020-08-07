@@ -1,0 +1,8 @@
+Danh sach key Caesar key co the:
+51
+20
+Danh sach permutation key co the:
+63254178
+Danh sach key Caesar key co the:
+51
+20

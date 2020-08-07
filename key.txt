@@ -1,0 +1,3 @@
+Do dich chuyen Caesar cipher la: 20; Day hoan vi block 8 ki tu la: 63254178
+Do dich chuyen Caesar cipher la: 23; Day hoan vi block 8 ki tu la: 32145687
+Day hoan vi block 8 ki tu la: 12365487
